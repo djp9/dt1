@@ -1,0 +1,6 @@
+com\vishu\service\StudentManagerImpl.class
+com\vishu\model\Student.class
+com\vishu\controller\StudentController.class
+com\vishu\dao\StudentDAO.class
+com\vishu\dao\StudentDAOImpl.class
+com\vishu\service\StudentManager.class
